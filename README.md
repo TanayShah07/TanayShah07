@@ -6,7 +6,7 @@ Passionate about building intelligent and user-friendly digital solutions that m
 
 ## 🔎 About Me
 💻 Currently working on: **College Buddy** – a real-time chat and matching platform for college students (React, Node.js, Socket.IO)  
-🧠 Also building: **NeuraTask** – an AI-assisted assignment tracker app, in collaboration with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🧠 Also building: **NeuraTask** – an AI-assisted assignment tracker app, in collaboration with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/)  
 📚 Currently learning: Backend optimization, advanced React patterns, and cloud deployment  
 🤝 Open to collaborations in Web, App, and Full-Stack Development  
 📬 Reach out: **tanayshah0709@gmail.com**
@@ -25,12 +25,13 @@ Passionate about building intelligent and user-friendly digital solutions that m
 ## 🚀 Projects
 
 ### 🎓 [College Buddy](#)
-A real-time chat and matching platform designed for college students.  
+A real-time chat and matching platform designed for college students, built collaboratively with  
+[Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/), [Sukhada Gulhane](https://www.linkedin.com/in/sukhada-gulhane-68834a242/), and [Ashmit Jain](https://www.linkedin.com/in/ashmitjain/).  
 > Built with React, Node.js, Express, MongoDB, and Socket.IO  
 Features real-time conversations, secure authentication, and a swipe-based matching system.
 
 ### 📘 [NeuraTask](#)
-An AI-assisted assignment tracker app built with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
+An AI-assisted assignment tracker app built with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/).  
 > Helps students manage, track, and get insights on assignments efficiently.  
 Developed using modern Android tools — Java, Kotlin, and Jetpack Compose.
 
