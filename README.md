@@ -5,8 +5,6 @@ Passionate about building intelligent and user-friendly digital solutions that m
 ---
 
 ## 🔎 About Me
-💻 Currently working on: **College Buddy** – a real-time chat and matching platform for college students (React, Node.js, Socket.IO)  
-🧠 Also building: **NeuraTask** – an AI-assisted assignment tracker app, in collaboration with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/)  
 📚 Currently learning: Backend optimization, advanced React patterns, and cloud deployment  
 🤝 Open to collaborations in Web, App, and Full-Stack Development  
 📬 Reach out: **tanayshah0709@gmail.com**
@@ -33,7 +31,14 @@ Features real-time conversations, secure authentication, and a swipe-based match
 ### 📘 [NeuraTask](#)
 An AI-assisted assignment tracker app built with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/).  
 > Helps students manage, track, and get insights on assignments efficiently.  
+
 Developed using modern Android tools — Java, Kotlin, and Jetpack Compose.
+
+### 🌐 [Scribber](#)
+An AI-powered note-taking web app built to help users create, organize, and summarize notes intelligently.
+> Enables real-time Ai chatting, and note summarization.
+
+Developed using Html, CSS , and Gemini API for seamless and smart productivity
 
 ---
 
