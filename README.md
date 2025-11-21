@@ -22,29 +22,31 @@ Passionate about building intelligent and user-friendly digital solutions that m
 
 ## 🚀 Projects
 
-### 🎓 [College Buddy](#)
+### 🎓 [College Buddy](https://github.com/TanayShah07/CollegeBuddy)
 A real-time chat and matching platform designed for college students, built collaboratively with  
 [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/), [Sukhada Gulhane](https://www.linkedin.com/in/sukhada-gulhane-68834a242/), and [Ashmit Jain](https://www.linkedin.com/in/ashmitjain/).  
 > Built with React, Node.js, Express, MongoDB, and Socket.IO  
-Features real-time conversations, secure authentication, and a swipe-based matching system.
+Features real-time conversations, secure authentication, and a swipe-based matching system.  
 
-### 📘 [NeuraTask](#)
+---
+
+### 📘 [NeuraTask](https://github.com/TanayShah07/NeuraTask)
 An AI-assisted assignment tracker app built with [Neerav Reddy](https://www.linkedin.com/in/neerav-reddy-623114290/).  
 > Helps students manage, track, and get insights on assignments efficiently.  
-
 Developed using modern Android tools — Java, Kotlin, and Jetpack Compose.
 
-### 🌐 [Scribber](#)
-An AI-powered note-taking web app built to help users create, organize, and summarize notes intelligently.
-> Enables real-time Ai chatting, and note summarization.
+---
 
-Developed using Html, CSS , and Gemini API for seamless and smart productivity
+### 🌐 [Scribber](https://github.com/TanayShah07/Scribber)
+An AI-powered note-taking web app built to help users create, organize, and summarize notes intelligently.  
+> Enables real-time AI chatting and note summarization.  
+Developed using HTML, CSS, and Gemini API for seamless and smart productivity.
 
 ---
 
 ## 🌐 Connect With Me
-🔗 **Portfolio:** [my-portfolio-bp5n.vercel.app](https://my-portfolio-bp5n.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/tanay-vipul-shah](https://www.linkedin.com/in/tanay-vipul-shah/)  
+🔗 **Portfolio:** https://my-portfolio-bp5n.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/tanay-vipul-shah/  
 📧 **Email:** tanayshah0709@gmail.com  
 
 ---
@@ -52,7 +54,7 @@ Developed using Html, CSS , and Gemini API for seamless and smart productivity
 ## 📊 GitHub Stats  
 ![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanayShah07&show_icons=true&theme=tokyonight)
 
-## 📊 Most Used Languages
+## 📊 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayShah07&layout=compact&theme=radical)
 
 ---
