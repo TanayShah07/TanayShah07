@@ -1,5 +1,6 @@
 # 👋 Hey, I'm Tanay Shah  
-🎯 Aspiring Full-Stack Developer  
+🎯 Full-Stack Developer | Web Developer.
+
 Passionate about building intelligent and user-friendly digital solutions that make everyday tasks simpler.
 
 ---
@@ -21,6 +22,21 @@ Passionate about building intelligent and user-friendly digital solutions that m
 ---
 
 ## 🚀 Projects
+
+### 🔐 [QURE](https://github.com/TanayShah07/qure)
+A hybrid cryptographic system combining Classical RSA and Post-Quantum (CRYSTALS-Kyber) algorithms.
+
+Built with React, Node.js, and Python
+
+Key Highlights:
+
+> Implemented RSA and lattice-based cryptography simulations.
+> 
+> Performance comparison between classical and post-quantum systems.
+> 
+> Python-based cryptographic engine integrated with web backend
+> 
+> Focused on secure communication and future-ready encryption
 
 ### 🎓 [College Buddy](https://github.com/TanayShah07/CollegeBuddy)
 A real-time chat and matching platform designed for college students, built collaboratively with  
