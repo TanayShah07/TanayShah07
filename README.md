@@ -221,53 +221,11 @@ Managed digital branding and social media operations while creating engaging con
 </div>
 
 ---
-## 📊 GitHub Analytics
+## 📊 GitHub Stats  
+![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanayShah07&show_icons=true&theme=tokyonight)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanayShah07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayShah07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="46%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TanayShah07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TanayShah07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayShah07&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanayShah07/TanayShah07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanayShah07/TanayShah07/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/TanayShah07/TanayShah07/output/github-contribution-grid-snake.svg" width="95%"/>
-</picture>
-
-</div>
+## 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayShah07&layout=compact&theme=radical)
 
 ---
 
