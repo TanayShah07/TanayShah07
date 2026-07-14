@@ -114,12 +114,5 @@ Facial Recognition Attendance System that detects faces and automatically record
 📧 Email: tanayshah0709@gmail.com
 
 ---
-## 📊 GitHub Stats  
-![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanayShah07&show_icons=true&theme=tokyonight)
-
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayShah07&layout=compact&theme=radical)
-
----
 
 > **"Build smart. Build clean. Build with purpose."**
